@@ -9,7 +9,7 @@
 const SKILLS = [
   { symbol: 'JS',  full: 'JavaScript',  pct: 95, color: '#d29922', category: 'Frontend' },
   { symbol: 'TS',  full: 'TypeScript',   pct: 88, color: '#58a6ff', category: 'Frontend' },
-  { symbol: 'RECT',full: 'React',        pct: 90, color: '#61dafb', category: 'Frontend' },
+  { symbol: 'RCT', full: 'React',        pct: 90, color: '#61dafb', category: 'Frontend' },
   { symbol: 'NODE',full: 'Node.js',      pct: 85, color: '#3fb950', category: 'Backend'  },
   { symbol: 'PY',  full: 'Python',       pct: 78, color: '#bc8cff', category: 'Backend'  },
   { symbol: 'SQL', full: 'PostgreSQL',   pct: 80, color: '#336791', category: 'Backend'  },
@@ -89,7 +89,7 @@ const PROJECTS = [
     name: 'ChronoLog',
     pair: 'CLI / Developer Tool',
     icon: '📋',
-    desc: 'Automated changelog generator that analyses commit history and produces formatted release notes using NLP classification.',
+    desc: 'Automated changelog generator that analyzes commit history and produces formatted release notes using NLP classification.',
     status: 'closed',
     year: '2022',
     category: 'backend',

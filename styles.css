@@ -1253,7 +1253,7 @@ canvas { display: block; }
   font-family: 'Inter', sans-serif;
 }
 
-.form-textarea option { background: var(--bg-secondary); }
+.form-select option { background: var(--bg-secondary); }
 
 .btn-icon { margin-left: auto; }
 
